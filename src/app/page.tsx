@@ -14,11 +14,11 @@ export default function Home() {
           >
             By{" "}
             <Image
-              src="/vercel.svg"
+              src="https://i.imgur.com/0VgsdXi.jpeg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
               width={100}
-              height={24}
+              height={100}
               priority
             />
           </a>
