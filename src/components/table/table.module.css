@@ -3,6 +3,11 @@
 }
 .table td {
   padding: 10px;
+  min-width: 200px;
+}
+
+.selected {
+  background-color: yellow;
 }
 
 .tableCell {
