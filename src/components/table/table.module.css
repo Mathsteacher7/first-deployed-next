@@ -17,3 +17,12 @@
 .tableRow:nth-child(even) {
   background-color: #e5e7f1;
 }
+
+.search span {
+  margin-left: 10px;
+}
+
+.search input {
+  border-radius: 5px;
+  padding: 10px;
+}
